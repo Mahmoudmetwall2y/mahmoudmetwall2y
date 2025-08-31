@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Mahmoud Metwally | https://mahmoudmetwall2y.online" title="👋 Hi there! I'm Mahmoud Metwally | https://mahmoudmetwall2y.online"/>](https://mahmoudmetwall2y.online/)
+[<img src="assets/Animation2.gif" alt="👋 Hi there! I'm Mahmoud Metwally | mahmoudmetwall2y.online" title="👋 Hi there! I'm Mahmoud Metwally | mahmoudmetwall2y.online" />](https://mahmoudmetwall2y.online/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=mahmoudmetwall2y.mahmoudmetwall2y&color=00cf00)
 
