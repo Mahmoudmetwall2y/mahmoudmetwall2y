@@ -1,32 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Metwally</h1>
-<h3 align="center">Multi-Cloud & DevOps Engineer</h3>
+```markdown
+# 👋 Hi, I’m **Mahmoud Metwally**
+**Cloud & DevOps Engineer** • **[Portfolio](https://mahmoudmetwall2y.online/)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmetwall2y&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmetwall2y" /> </p>
+![visitors](https://vbr.nathanchung.dev/badge?page_id=mahmoudmetwall2y.mahmoudmetwall2y&color=00cf00)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmetwall2y" alt="mahmoudmetwall2y" /></a> </p>
+*Last updated:* `2025-08-31`
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Multi Cloud, DevOps**
+## About me
+- I build and automate cloud‑native infrastructure with a focus on **reliability, scalability, and cost efficiency**.
+- Areas: **Kubernetes**, **Docker**, **IaC** (Terraform), **CI/CD** (GitHub Actions, GitLab CI), **Observability** (Prometheus, Grafana), **SecOps** baselines.
+- Solid foundations: **Linux**, **Bash**, **Python**, **Git/GitFlow**.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahmoudmetwall2y/](https://www.linkedin.com/in/mahmoudmetwall2y/)
+## Core stack
+- **Cloud:** AWS · Azure · GCP  
+- **Containers & Orchestration:** Docker · Kubernetes  
+- **IaC & Config:** Terraform · Ansible  
+- **CI/CD:** GitHub Actions · GitLab CI/CD · Argo CD  
+- **Monitoring & Logging:** Prometheus · Grafana · Loki · ELK  
+- **Languages:** Bash · Python · TypeScript (tooling)
 
-- 📫 How to reach me **mahmoudmetwall2y@gmail.com**
+> Portfolio for case studies and demos → **https://mahmoudmetwall2y.online/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QREfrQSAI8xSQQDKuf8V7tMTUjxXCBqc/view?usp=sharing](https://drive.google.com/file/d/1QREfrQSAI8xSQQDKuf8V7tMTUjxXCBqc/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoudmetwall2y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudmetwall2y" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoudmetwall2y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudmetwall2y" height="30" width="40" /></a>
-</p>
+## What I’m working on
+- GitOps pipelines for reliable Kubernetes deployments.
+- Reusable Terraform modules for multi‑environment provisioning.
+- Cost and performance dashboards for SRE operations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudmetwall2y&show_icons=true&locale=en&layout=compact" alt="mahmoudmetwall2y" /></p>
+## Selected highlights
+- **Production‑grade Kubernetes** with blue‑green and canary strategies.
+- **CI/CD** with automated tests, security scans, and policy checks.
+- **IaC** patterns for networking, compute, and observability.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmetwall2y&show_icons=true&locale=en" alt="mahmoudmetwall2y" /></p>
+> See the portfolio for detailed write‑ups and examples.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmetwall2y&" alt="mahmoudmetwall2y" /></p>
+---
 
+## Get in touch
+- 📫 Email: **mahmoudmetwall2y@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/mahmoudmetwall2y/**
+- 🌐 Website: **https://mahmoudmetwall2y.online/**
+
+---
+
+## GitHub widgets (optional)
+> Uncomment and set your username to enable.
+
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudmetwall2y&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudmetwall2y&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudmetwall2y&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+```
